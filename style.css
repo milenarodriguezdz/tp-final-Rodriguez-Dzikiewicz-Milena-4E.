@@ -3,14 +3,14 @@ body {
     font-family: Arial, sans-serif;
     background-color: #fbf8f3; 
     color: #2f3e46; 
-    margin: 0;
-    padding: 0;
+    margin:auto ;
+    padding: auto;
 }
 
 header {
     background-color: #ffffff;
     border-bottom: 3px solid #f4c26d; 
-    padding: 15px 20px;
+
 }
 
 .nav-header {
