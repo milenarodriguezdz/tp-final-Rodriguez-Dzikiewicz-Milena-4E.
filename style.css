@@ -27,9 +27,9 @@ header {
 h2 {
     color: #eb7d76; 
     font-size: 28px;
-    margin-bottom: 15px;
-    border-bottom: 2px solid #f0c3be; 
-    padding-bottom: 5px;
+    margin-bottom: 30%;
+    border-bottom: 10px solid #f0c3be; 
+    padding-bottom: 10px;
 }
 
 h3 {
@@ -38,13 +38,21 @@ h3 {
 }
 
 p {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     line-height: 1.6;
 }
 
+section {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    border-top: 4px solid #f4c26d;
+}
+
 img {
-    width: 30%;
-    margin: 80%;
+    width: auto;
+    margin: auto;
 }
 
 footer {
@@ -52,5 +60,5 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
-    margin-top: 40px;
+    margin-top: auto;
 }
