@@ -20,3 +20,8 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+
+img {
+    width: 30%;
+    margin: 80%;
+}
