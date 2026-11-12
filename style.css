@@ -22,7 +22,35 @@ header {
     align-items: center;
 }
 
+
+
+h2 {
+    color: #eb7d76; 
+    font-size: 28px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #f0c3be; 
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: #7d9d96;
+    margin-top: 20px;
+}
+
+p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
 img {
     width: 30%;
     margin: 80%;
+}
+
+footer {
+    background-color: #7d9d96; 
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
 }
