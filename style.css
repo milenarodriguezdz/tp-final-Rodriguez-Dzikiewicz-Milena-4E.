@@ -51,11 +51,8 @@ section {
 }
 
 img {
-    max-width: 140%;
+    width: 140%;
     height: auto;
-    display: block;
-
-/*Ayuda de ia poruqe no podia acomodar las imagenes de la forma que queria */
 }
 
 footer {
