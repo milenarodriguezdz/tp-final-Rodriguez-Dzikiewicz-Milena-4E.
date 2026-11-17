@@ -51,8 +51,8 @@ section {
 }
 
 img {
-    width: 80%;
-    margin: 80%;
+    width: 300px;
+    margin: auto;
 }
 
 footer {
@@ -64,5 +64,5 @@ footer {
 }
 
 .fotoviga{
-    width: 120px;
+    width: 300px;
 }
