@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f8e7cc; 
-    color: #2f3e46; 
+    color: #3e6276; 
     margin:auto ;
     padding: auto;
 }
@@ -34,7 +34,7 @@ h2 {
 }
 
 h3 {
-    color: #69a094;
+    color:#a27976;
     margin-top: 20px;
 }
 
@@ -58,8 +58,10 @@ img {
 
 footer {
     background-color: #7d9d96; 
-    color: #69a094;
+    color: #f4c26d;
     text-align: center;
     padding: 20px;
     margin-top: auto;
+    color:
 }
+
