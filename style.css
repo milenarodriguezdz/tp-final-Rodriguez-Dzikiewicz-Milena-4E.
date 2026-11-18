@@ -32,10 +32,10 @@ h1{
 h2 {
     color: #e06a61; 
     font-size: 28px;
-     margin: 0;
-    padding: 0;
+     margin: 10;
+    padding: 10;
     box-sizing: border-box;
-    border-bottom: 10px solid #f0c3be; 
+    border: 10px solid #f0c3be; 
 }
 
 h3 {
