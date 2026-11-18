@@ -9,11 +9,8 @@ body {
 
 header {
     background-color: #f9f0e3;
-    border-top:#a27976;
-    border-bottom: #a27976;
-    border-left: #a27976;
-    border-right:#a27976 ;
-    border-radius: 20px;
+    margin: 0;
+    padding: 0;
 }
 
 .nav-header {
