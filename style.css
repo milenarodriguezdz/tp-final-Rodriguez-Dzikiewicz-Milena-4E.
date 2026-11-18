@@ -59,6 +59,7 @@ section {
 img {
     width: 100%;
     height: auto;
+    border-radius: 10px;
 }
 
 footer {
@@ -71,8 +72,8 @@ footer {
 }
 
 .fotoviga {
-    border-radius: 10px;
-    size: 120%;
+
+    size: 140%;
 }
 
 li{
