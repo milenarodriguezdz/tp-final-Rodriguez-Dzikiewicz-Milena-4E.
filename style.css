@@ -26,17 +26,18 @@ header {
 }
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 50px;
+    font-size: 70px;
 }
 
 
 h2 {
     color: #e06a61; 
-    font-size: 28px;
+    font-size: 40px;
      margin: 10;
     padding: 10;
     box-sizing: border-box;
-    border: 10px solid #f0c3be; 
+    border: 5px solid #f0c3be;
+    border-radius: 15px;
 }
 
 h3 {
