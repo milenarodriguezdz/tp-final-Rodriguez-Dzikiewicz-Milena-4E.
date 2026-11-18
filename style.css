@@ -9,7 +9,11 @@ body {
 
 header {
     background-color: #f9f0e3;
-    border:#a27976;
+    border-top:#a27976;
+    border-bottom: #a27976;
+    border-left: #a27976;
+    border-right:#a27976 ;
+    border-radius: 20px;
 }
 
 .nav-header {
