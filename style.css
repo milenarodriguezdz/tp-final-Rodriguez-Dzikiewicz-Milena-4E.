@@ -91,19 +91,3 @@ nav ul li{
 nav ul li a{
     color: #3e6276;
 }
-.headerButtons{
-    width: 100%;
-    float: right;
-    margin-right: 1%;
-    padding: 3%;
-}
-.headerButtons a.principal{
-    float: right;
-    padding: 1%;
-    background-color: #f7a6ec;
-    color: #003366;
-    border-radius: 8px;
-    font-weight: bold;
-    margin-top: 10px;
-    margin: 1%;
-}
