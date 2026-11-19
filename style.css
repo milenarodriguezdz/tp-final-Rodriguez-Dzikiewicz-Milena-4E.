@@ -81,12 +81,11 @@ li{
 
 nav ul li{
     float: left;
-    margin-left: 3%;
-    margin-right: 3%;
-    list-style: none;
-    background-color: #fffda1;
-    padding: 1%;
-    border-radius: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: #e06a61;
+    padding: 4%;
+    border-radius: 10%;
     margin-bottom: 1%;
 }
 nav ul li a{
